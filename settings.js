@@ -41,15 +41,15 @@ global.APIKeys = {
 
 global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤niko Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94763332698'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'niko bot 🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤niko Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©niko bot🖤.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤niko Bot🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤niko Bot🖤'
 
 global.sessionName = 'session'
 
